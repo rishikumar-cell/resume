@@ -3,7 +3,7 @@ import { useState } from 'react'
 // ── CHANGE YOUR ADMIN PASSWORD HERE ──────────────────────────────────────────
 // Replace 'venu@aiml2026' with your own password, then save the file.
 // This is base64-encoded (not real encryption) — suitable for a personal portfolio.
-const ADMIN_PW_B64 = btoa('venu@aiml2026')
+const ADMIN_PW_B64 = btoa('Chittimalla@1817')
 // ─────────────────────────────────────────────────────────────────────────────
 
 const SESSION_KEY = 'aiml_admin_session'
